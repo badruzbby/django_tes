@@ -21,6 +21,7 @@ DATABASES = {
 ```
 5. python manage.py makemigrations
 6. python manage.py migrate
+8. python manage.py fetch_data
 7. python manage.py runserver
 
 akses localhost:8000/produk/ untuk melihat data produk
