@@ -2,7 +2,7 @@
 1. git clone https://github.com/badruzbbby/django_tes.git
 2. cd django_tes
 3. pip install -r requirements.txt
-4. edit file settings.py 
+4. edit file settings.py di folder tes_recruitment
 
 ```python
 DATABASES = {
