@@ -1,3 +1,5 @@
+#requirements
+1. python versi >= 3.9 <= 3.11
 #Instalasi
 1. git clone https://github.com/badruzbbby/django_tes.git
 2. cd django_tes
